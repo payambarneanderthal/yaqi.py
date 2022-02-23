@@ -1,7 +1,7 @@
 import requests, random, datetime, sys, time, argparse, os
 import threading
 
-banner = """"
+banner = """
                          ╔═══════════╗
                       ╔═╝███████████╚═╗
                      ╔╝███████████████╚╗
@@ -17,7 +17,7 @@ banner = """"
                       ╚══╦╝██▒█▒██╚╦══╝
                           ║█████████║
                           ║█║██║██║█║                                         
-                          ╚═╩══╩══╩═╝  """"
+                          ╚═╩══╩══╩═╝"""
 
 print(banner)
 _phone = input('enter number(98xxxxxxxxx)-->>> ')
