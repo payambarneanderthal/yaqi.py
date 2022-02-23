@@ -2,7 +2,9 @@
 import requests
 import time
 
+
 target = input("enter number >>> ")
+
 url = "https://web.rubika.ir"
 
 While True:
