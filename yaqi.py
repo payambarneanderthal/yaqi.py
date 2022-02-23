@@ -2,7 +2,7 @@ import requests, random, datetime, sys, time, argparse, os
 import threading
 
 banner = """"
-                     ╔═══════════╗
+                         ╔═══════════╗
                       ╔═╝███████████╚═╗
                      ╔╝███████████████╚╗
                      ║█████████████████║
