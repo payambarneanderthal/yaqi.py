@@ -1,4 +1,4 @@
-#codes
+# codes
 
 pkg install python
 
