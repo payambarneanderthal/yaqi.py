@@ -7,7 +7,7 @@ target = input("enter number >>> ")
 
 url = "https://web.rubika.ir"
 
-while True:
+While True:
 
 time.sleep(0.3)
 
